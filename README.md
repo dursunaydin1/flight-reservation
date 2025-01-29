@@ -20,7 +20,7 @@ Bu, React ile geliştirilmiş bir Uçuş Rezervasyon Uygulamasıdır. Uygulama, 
 
 ## Canlı Demo
 
-Uygulamanın canlı demosunu [buradan](https://your-netlify-link.netlify.app) görüntüleyebilirsiniz.
+Uygulamanın canlı demosunu [buradan](https://flight-reservation1.netlify.app/) görüntüleyebilirsiniz.
 
 ## Kurulum
 
